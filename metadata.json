@@ -1,0 +1,6 @@
+{
+  "name": "Olive Chebba",
+  "description": "An elegant, editorial-style web application for Tunisian olive oil company Olive Chebba.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
